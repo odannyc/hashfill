@@ -1,9 +1,9 @@
 package hashfill
 
 import (
+	"github.com/Zomato/gogeos/geos"
 	"github.com/mmcloughlin/geohash"
-	"github.com/paulsmith/gogeos/geos"
-	geom "github.com/twpayne/go-geom"
+	"github.com/twpayne/go-geom"
 )
 
 // Container tests if a hash is contained.
